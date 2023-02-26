@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'screens/movie_screen.dart';
 import 'screens/onboading_screen.dart';
-
 import 'screens/homescreen.dart';
 
 void main() {
